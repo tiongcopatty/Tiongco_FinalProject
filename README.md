@@ -1,1 +1,2 @@
 # Tiongco_FinalProject
+This is a final project regarding the Automated Essay Scoring System. It focuses on the comparison of Cohen's Kappa Score to know which models has a higher score when compared to a human scorer. The following machine learning techniques i used are: Calssification Analysis, Linear Regression, Ridge Regression, Lasso Regression, and KNN (using mean, median, and the closest item).
